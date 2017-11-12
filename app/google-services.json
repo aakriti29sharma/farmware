@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441737903485",
+    "firebase_url": "https://infinitefarmer.firebaseio.com",
+    "project_id": "infinitefarmer",
+    "storage_bucket": "infinitefarmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441737903485:android:f86076d4a43a3792",
+        "android_client_info": {
+          "package_name": "com.infinitefarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441737903485-uukd0v3ol03fogeeormjebiejvgt8ehn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinitefarmer",
+            "certificate_hash": "addf49ce9fdd6587921e58c388520639b003e35d"
+          }
+        },
+        {
+          "client_id": "441737903485-ovla4uf4pnjvdklv0e3q2brtkij6co2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlXQQk7Yw1V_dRgQgd5bLhoPLAxbsSdPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441737903485-ovla4uf4pnjvdklv0e3q2brtkij6co2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
